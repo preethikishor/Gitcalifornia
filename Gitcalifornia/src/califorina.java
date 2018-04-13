@@ -1,9 +1,10 @@
 
 public class califorina {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	public static void main(String[] args) 
+	{
+		System.out.println("***** i moved to califorina");
+		
+}
 
 }
