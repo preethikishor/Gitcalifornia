@@ -4,7 +4,7 @@ public static void main(String[] args)
 {
 System.out.println("***** i moved to califorina");
 System.out.println("preethi moved to ");
-System.out.println(" moveing to califorina fgfgfg");
+System.out.println(" moveing to rtrt fgfgfg");
 
 }
 }
