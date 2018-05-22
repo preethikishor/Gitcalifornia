@@ -6,7 +6,6 @@ public class calcutta {
 		System.out.println("@@@ reached THE WAY TO CALCUTTA @@@@@");	
 		System.out.println("!!!! reached THE WAY TO CALCUTTA");	
 		System.out.println("@@@ reached THE WAY TO CALCUTTA @@@@@");	
-		System.out.println("!!!! reached THE WAY TO CALCUTTA");		
-
+		
 }
 }
