@@ -5,6 +5,7 @@ public class cal {
 		
 
 		System.out.println("california moving");
+		System.out.println("california going");
 		
 	}
 }
