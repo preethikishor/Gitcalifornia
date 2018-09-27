@@ -7,6 +7,7 @@ System.out.println("martha s moved to california ");
 
 System.out.println("preethi d moved to california ");
 
+System.out.println("meera p moved to california ");
 
 }
 }
