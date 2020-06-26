@@ -5,7 +5,7 @@ public class calcutta {
 	{
 		
 		System.out.println("@@@ reached THE WAY TO CALCUTTA @@@@@");	
-		
+		System.out.println("$$$$ reached THE going TO preethi);
 		
 		System.out.println("$$$$ reached THE WAY TO preethi);
 }
